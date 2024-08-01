@@ -1,6 +1,6 @@
 # Funko Pop Scraper
 
-A small web scraper for [PopPriceGuide](https://www.poppriceguide.com/) to find the price of a Funko Pop. Also lets you find the prices of high value funko pops that have been autographed. Built with Python using Selenium, re and beautifulsoup. 
+A small web scraper for [PopPriceGuide](https://www.poppriceguide.com/) to find the price of a Funko Pop. Also lets you find the prices of high-value funko pops that have been autographed. Built with Python using Selenium, re, and beautifulsoup. 
 
 ## Libraries/Modules Required
 * re
@@ -11,7 +11,7 @@ A small web scraper for [PopPriceGuide](https://www.poppriceguide.com/) to find 
 ## Usage
 `python3 ppg.py`
 Prompts will follow.
-Can also be reworked to be automatec.
+Can also be reworked to be automated.
 
 ### Inputs (in order)
 1. Funko Pop name (ex: Kevin Smith)
